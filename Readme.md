@@ -30,12 +30,14 @@
 > ⚠️ **Important Notes:**
 > - Use **Python 3.8 – 3.10** (required for spleeter)
 > - Install all dependencies required.
+> - Ensure that all dependency versions are compatible with Spleeter. Downgrading NumPy and TensorFlow may be required.
 > - Set up **Google Cloud Translation API** and add the api key in the MainCode.py
-> - Download the **custom gender classification model** from https://drive.google.com/drive/folders/13n0t9p-AmbeL4MTC4oG-ZYlgtoA7QxZk?usp=drive_link  and save it inside the Backend directory.
+> - Download the **custom gender classification model** from https://drive.google.com/file/d/1qThAxxx-eeDfVzy8hLxA_Tn3Ji2ls_Rc/view?usp=sharing , unzip and save it inside the Backend directory.
 > - Make sure all **directory paths** in the code are correct.
 
 
 ## 🚀 How to Run
 
 1. Run app.py in Frontend
+
 2. Upload video in the html and click convert👍
